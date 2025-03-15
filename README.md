@@ -1,4 +1,4 @@
-# Understanding Zero Times Infinity
+# Zero Times Infinity, 0 × ∞ = ?
 
 The concept of zero times infinity (0 × ∞) is one of the most intriguing and perplexing topics in mathematics, blending the abstract ideas of nothingness and boundlessness. At first glance, the expression seems paradoxical: zero represents the absence of quantity, while infinity represents something without limit. We'll explore the mathematical interpretations of 0 × ∞ primarily through the lens of calculus and examines the philosophical implications of this enigmatic expression.
 
