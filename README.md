@@ -113,3 +113,9 @@ The paradox of $0 \times \infty$ mirrors fundamental philosophical questions abo
 The expression $0 \times \infty$ transcends simple arithmetic, revealing the subtle interplay between concepts that seem diametrically opposed. Through calculus, we understand that this **indeterminate form** represents a mathematical boundary where outcomes depend on the specific paths taken toward zero and infinity.
 
 This mathematical ambiguity reflects philosophical tensions between **nothingness and boundlessness**—concepts that have fascinated thinkers throughout history. The paradox of $0 \times \infty$ invites us to reconsider our intuitions about the **nature of reality, existence, and the infinite**.
+
+---
+
+[Watch the Youtube video here](https://youtu.be/Czb6MVZU0X4)
+
+[![YouTube Video Thumbnail](https://img.youtube.com/vi/Czb6MVZU0X4/0.jpg)](https://www.youtube.com/watch?v=Czb6MVZU0X4)
